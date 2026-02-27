@@ -1,0 +1,3 @@
+Si creo dos contenedores con el servicio y en uno de ellos hago el préstamo,
+en el otro contenedor no aparecerá como prestado. Lo que ocurre en una no tiene impacto
+sobre la otra. Para eso creamos una SOA.
